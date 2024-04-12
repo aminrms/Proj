@@ -9,7 +9,7 @@ const SplashScreen: React.FC = ({}) => {
   return (
     <View
       onTouchStart={() => {
-        navigation.navigate({name: 'home'});
+        navigation.navigate('home', {itemId: 1});
       }}>
       <Text style={{color: '#333'}}> Click Me</Text>
     </View>

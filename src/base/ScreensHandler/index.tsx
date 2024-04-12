@@ -20,12 +20,13 @@ const ScreensHandler: React.FC<ScreensHandlerProps> = ({children}) => {
           name={screen?.name as string}
           options={{
             animation: screen?.animation ?? 'ios',
-            gestureDirection: 'horizontal',
             animationDuration: 150,
             headerShown: false,
             gestureEnabled: true,
           }}>
-          {() => (screen?.component ? <screen.component /> : null)}
+          {props =>
+            screen?.component ? <screen.component {...props} /> : null
+          }
         </Stack.Screen>
       ))}
     </Stack.Navigator>
