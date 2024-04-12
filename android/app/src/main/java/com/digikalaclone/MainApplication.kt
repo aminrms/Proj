@@ -1,4 +1,4 @@
-package com.digikalaclone
+package com.digikala.clone
 
 import android.app.Application
 import com.facebook.react.PackageList

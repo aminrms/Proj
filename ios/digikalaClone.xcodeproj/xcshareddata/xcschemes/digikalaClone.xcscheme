@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "digikalaClone.app"
-               BlueprintName = "digikalaClone"
-               ReferencedContainer = "container:digikalaClone.xcodeproj">
+               BuildableName = "digikala.clone.app"
+               BlueprintName = "digikala.clone"
+               ReferencedContainer = "container:digikala.clone.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "digikalaCloneTests.xctest"
-               BlueprintName = "digikalaCloneTests"
-               ReferencedContainer = "container:digikalaClone.xcodeproj">
+               BuildableName = "digikala.cloneTests.xctest"
+               BlueprintName = "digikala.cloneTests"
+               ReferencedContainer = "container:digikala.clone.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "digikalaClone.app"
-            BlueprintName = "digikalaClone"
-            ReferencedContainer = "container:digikalaClone.xcodeproj">
+            BuildableName = "digikala.clone.app"
+            BlueprintName = "digikala.clone"
+            ReferencedContainer = "container:digikala.clone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "digikalaClone.app"
-            BlueprintName = "digikalaClone"
-            ReferencedContainer = "container:digikalaClone.xcodeproj">
+            BuildableName = "digikala.clone.app"
+            BlueprintName = "digikala.clone"
+            ReferencedContainer = "container:digikala.clone.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
